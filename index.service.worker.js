@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755660321|1515514228';
+const CACHE_VERSION = '1755732390|18578606';
 /** @type {string} */
 const CACHE_PREFIX = 'Voidwood-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
